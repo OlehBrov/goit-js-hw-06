@@ -19,4 +19,4 @@ const markup = images.map((item) => `<li class = 'img__item'><img class = "liste
   .join("");
 
   galleryRef.insertAdjacentHTML("afterbegin", markup);
-  // galleryRef.append(markup);
+  

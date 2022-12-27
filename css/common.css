@@ -30,8 +30,11 @@ button {
 }
 .img__item {
  width: calc((100%-80px) / 3);
+ 
 }
 .listed__img {
   display: block;
   width: auto;
+  height: 100px;
+
 }
